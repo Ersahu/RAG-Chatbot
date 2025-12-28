@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo:latest
+    container_name: rag-chatbot-mongo
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_DATABASE: rag-chatbot
+    volumes:
+      - mongodb_data:/data/db
+
+volumes:
+  mongodb_data:
