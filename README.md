@@ -291,14 +291,15 @@ rag-chatbot/
 - [ ] Custom LLM model selection
 - [ ] Voice input/output
 
-## License
+## 🤝 Contributions
+We welcome pull requests! For major changes, please open an issue to discuss what you'd like to improve or add.
 
-MIT License - feel free to use this project for learning or commercial purposes.
+## 📧 Contact
+**Developer**: Vaibhav
 
-## Support
+**Email**: sahuvaibhav064@gmail.com
 
-For issues or questions, please create an issue in the repository.
+**LinkedIn**: https://www.linkedin.com/in/vaibhav-chaudhary-615712272/
 
----
-
-**Built with ❤️ using React, Node.js, LangChain, and OpenAI**
+## 📜 License
+MIT License © 2025 Vaibhav
